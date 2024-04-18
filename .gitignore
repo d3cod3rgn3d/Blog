@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Database
+db.sqlite3
+
+# Static files
+/staticfiles/
+
+# Compiled Python files
+*.pyc
+
+# Local settings
+/myblog/myblog/settings/local.py
